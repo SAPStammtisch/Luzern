@@ -1,1 +1,1 @@
-# Luzern
+# SAP Stammtisch Luzern
