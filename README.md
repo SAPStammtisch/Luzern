@@ -1,4 +1,5 @@
-# Stammtisch
+# SAP Stammtisch Luzern
+
 Beim SAP Stammtisch Luzern treffen sich Architekten, Berater, Entwickler, Studenten u.v.m. zum Erfahrungs- sowie Know-How Austausch.
 
 Unsere Regeln:
