@@ -18,7 +18,7 @@ https://www.xing.com/communities/groups/sap-stammtisch-luzern-ed9c-1110610/about
 | Datum | Themen | Link |
 |---------------|----------------|---------------|
 | `Februar - Mittwoch, 24.02.2021` | Fiori Elements am Beispiel SAP Analytical List Page | https://www.xing.com/events/sap-stammtisch-luzern-24-februar-2021-3288327 |
-| `März - Mittwoch, 24.03.2021` | SAP Business Application Studio / VSCode on Premise | https://www.xing.com/events/sap-stammtisch-luzern-24-marz-2021-3346459 |
+| `März - Mittwoch, 24.03.2021` | SAP Business Application Studio / VSCode On-premises | https://www.xing.com/events/sap-stammtisch-luzern-24-marz-2021-3346459 |
 | `April - Mittwoch, 28.04.2021` | ... | ... |
 | `Juni - Mittwoch, 23.06.2021` | ... | ... |
 | `September - Mittwoch, 22.09.2021` | ... | ... |
