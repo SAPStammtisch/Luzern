@@ -22,6 +22,11 @@ VS-Code / ABAP
 - https://blogs.sap.com/2019/12/06/abap-development-in-vs-code/
 - https://www.youtube.com/watch?v=hzjNnRcYmqY
 
+Fiori VS-Code onPremise
+----
+https://blogs.sap.com/2021/02/03/setting-up-visual-studio-code-for-ui5-development/?source=social-Global-sap-developers-LINKEDIN_COMPANY-MarketingCampaign-Developers-Fiori-spr-4544713837&campaigncode=CRM-XB21-MKT-DGEALL
+
+
 VS-Code
 ----
 - https://code.visualstudio.com
@@ -33,7 +38,6 @@ NodeJS
 Apache Theia
 ----
 - https://theia-ide.org/
-
 
 
 Yeoman (YO)
