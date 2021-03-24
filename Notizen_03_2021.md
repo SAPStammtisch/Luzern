@@ -27,6 +27,11 @@ Fiori VS-Code onPremise
 https://blogs.sap.com/2021/02/03/setting-up-visual-studio-code-for-ui5-development/?source=social-Global-sap-developers-LINKEDIN_COMPANY-MarketingCampaign-Developers-Fiori-spr-4544713837&campaigncode=CRM-XB21-MKT-DGEALL
 
 
+ui5-nwabap-deployer: ABAP-Deployer
+----
+https://github.com/pfefferf/ui5-nwabap-deployer
+
+
 VS-Code
 ----
 - https://code.visualstudio.com
@@ -43,3 +48,5 @@ Apache Theia
 Yeoman (YO)
 ----
 https://yeoman.io
+
+
