@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--(c) Copyright 2015 SAP AG. All rights reserved.
+
+SAP and the SAP logo are registered trademarks of SAP AG in Germany and other countries. Business Objects and the Business Objects logo are registered trademarks of Business Objects S.A., which is an SAP company.
+-->
+<dictionary xmlns="http://www.sap.com/ta/4.0">
+
+  <entity_category name="SPORTS_EVENTS">
+    <entity_name standard_form="World Cup 2014">
+    	<variant name="World Cup Brazil" />
+    	<variant name="WM Brasilien" />
+    	<variant name="Brasilien 2014" />
+    	<variant name="Weltmeisterschaft 2014" />
+    	<variant name="Weltmeisterschaft in Brasilien" />
+    </entity_name>
+    <entity_name standard_form="Olympische Winterspiele 2014">
+    	<variant name="Winterolympiade 2014" />
+    	<variant name="Winterolympiade Sochi" />
+    	<variant name="Olympische Spiele 2014" />
+    	<variant name="Olympische Spiele in Sochi" />
+    	<variant name="Sochi 2014" />
+    </entity_name>    
+  </entity_category>
+    
+  <entity_category name="ORGANIZATION@COMMERCIAL">
+    <entity_name standard_form="Versicherungs-AG">
+    	<variant name="VersicherungsAG" />
+    	<variant name="Versicherungs AG" />
+    	<variant name="Versicherung AG" />
+    </entity_name>
+  </entity_category>
+
+
+  <entity_category name="IDs@ClaimID">
+    <entity_name standard_form="23.12231.23.6" />
+  </entity_category>
+
+  <entity_category name="complaint@Topic">
+    <entity_name standard_form="Kundenportal">
+    	<variant name="Kundenportal" />
+    	<variant name="E-Service" />
+    	<variant name="EService" />
+    	<variant name="webseite" />
+    	<variant name="website" />
+    	<variant name="Medform" />
+    	<variant name="Aktivierungscode" />
+    	<variant name="Aktivierungspin" />
+    </entity_name>
+    <entity_name standard_form="Rechnung/In-Exkasso">
+    	<variant name="Abrechnung" />
+    	<variant name="Lohnerklärung" />
+    	<variant name="Lohnsumme" />
+    	<variant name="Mahnung" />
+    </entity_name>    
+  </entity_category>
+
+</dictionary>
