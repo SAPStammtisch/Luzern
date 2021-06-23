@@ -21,7 +21,7 @@ Unsere Regeln:
 # Termine
 
 - `Februar - Mittwoch, 24.02.2021` [Fiori Elements am Beispiel SAP Analytical List Page](https://www.xing.com/events/sap-stammtisch-luzern-24-februar-2021-3288327)
-- `März - Mittwoch, 24.03.2021` [SAP Business Application Studio / VSCode On-premises / Notizen](https://github.com/SAPStammtisch/Luzern/blob/617a95617d38610a643755c05f5084dcf5b53900/Notizen/Notizen_03_2021.md)
+- `März - Mittwoch, 24.03.2021` [SAP Business Application Studio / VSCode On-premises / Notizen](https://github.com/SAPStammtisch/Luzern/blob/main/Notizen/Notizen_03_2021.md)
 - `April - Mittwoch, 28.04.2021`
 - `Juni - Mittwoch, 23.06.2021` [Anmeldung](https://www.xing.com/events/sap-stammtisch-luzern-23-juni-2021-3502711)
 - `September - Mittwoch, 22.09.2021` 
