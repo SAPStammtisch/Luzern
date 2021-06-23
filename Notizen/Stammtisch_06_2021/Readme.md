@@ -2,3 +2,4 @@
 
 ### Thema: Text-Analysis mit SAP HANA
 
+Link auf SAP-Dokumentation (https://help.sap.com/viewer/62e301bb1872437cbb2a8c4209f74a65/2.0.03/en-US/31b772b1530349a5bf32ec345f5a0080.html)
