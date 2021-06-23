@@ -1,0 +1,161 @@
+DROP TABLE "TA"."BEWERTUNGEN";
+CREATE COLUMN TABLE "TA"."BEWERTUNGEN" (
+	ID INTEGER PRIMARY KEY,
+	STRING nvarchar(2000)
+);
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (1, '
+Gute Burger
+Gute Bedingungen, sehr freundlich. Sehr feines Essen. Take away sehr umweltfreundlich verpackt. Preis und Qualität stimmen überein.
+
+');
+
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (2, '
+Leider nicht komplett überzeugend
+Ich bestellte als Take-Away einen Cheeseburger mit Grillgemüse als Beilage. Während das Grillgemüse optisch und geschmacklich top war, war ich vom recht hochpreisigen Burger, bei dem ich hohe Erwartungen hatte, etwas enttäuscht: Fleisch- und Käsequalität empfand ich als leider durchschnittlich.
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (3, '
+Kreative Gerichte
+Die Qualität und Kreativität der Gerichte ist sehr gut und werden schön präsentiert. Der Service ist unkompliziert, sehr aufmerksam und trotzdem dezent. Ich persönlich bin nicht so Fan von hohen Tischen, die es teilweise hat. Gerade bei der vorhandenen (kleinen) Raumgrösse, "stehlen" hohe Tische optisch...Mehr
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (4, '
+Beste Burger der Stadt!
+Definitiv eines meiner Lieblingsrestaurants in Luzern! Sehr unkompliziert und locker - trotzdem sehr leckeres Essen. Geeignet für ein Mittagessen, ein Nachtessen oder auch für TakeAway bzw Lieferservice. Grosse und gute Auswahl an Burger für Fleischesser und Vegetarier. Wir freuen uns jedes Mal auf den Besuch!
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (5, '
+naja
+das essen war geschmacklich nicht schlecht. leider wurde uns der hauptgang gebracht als wir noch an der vorpseise waren(für die serviceangestellte schien das kein wirkliches problem zu sein). der burger war halb roh und eher kalt und die pommes komplett versalzen. der service war nett...Mehr
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (6, '
+Burger zum verlieben
+1. Personal super freundlich 2. Restaurant mega cool eingerichtet 3. Das Essen bzw. die Burgers sind meeeega lecker!! Die normalen Kartoffelpommes, die Süsskartoffelpommes und die Dirty Fries sind auch empfehlenswert. Weiter so liebes Wolfs-Team!
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (7, '
+Begeistert mit Mini-Einschränkung
+1. Der Service: Die jungen Damen sind nicht nur super freundlich, sie sind sensationell! Ohne aufgesetzt zu wirken, behandelten sie mich wie einen alten Stammgast. Dieser Chef kann sich freuen! 2. Das Essen: Hatte einen Trüffel-Burger mit sensationellen Süßkartoffel Fries. Alles high-level, allerdings hätte ich...Mehr
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (8, '
+Perfekt
+Super freundlich und grossartiges Essen. Ne wirklich, das ist der beste Burger, den ich je in meinem Leben gegessen habe. Und ich hab schon viele probiert.
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (9, '
+Kürzlich haben wir eine Bestellung
+Kürzlich haben wir eine Bestellung aufgegeben. Ich habe noch nie eine derart mickrige Beilage erhalten. Das Grillgemüse, das immerhin 6.- gekostet hat, war noch drei Gabeln verputzt. Beide Burger waren nicht in der gewünschten Garstufe gebraten und meine Freundin, die zusätzlich Käse für 2.- extra...Mehr
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (10, '
+Nicht ganz gehalten was versprochen.
+Wir waren zu 6. am Abend essen. Der Empfang und die Empfehlung war sehr gut. Die Vorspeisenplatte war fein, wenn auch nicht alles selbstgemacht. Bei den Hauptgerichten, wir hatten Filets und ein Tomahawk (für2) wurden alle Garstufen verfehlt. Wir mussten die Gerichte zurückgeben und nachfragen...Mehr
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (11, '
+Toller Service, Fleischqualität mangelhaft, Preis nicht gerechtfertigt
+Der Service war ausgesprochen freundlich und aufmerksam, und das Lokal ist gemütlich (wenn auch etwas beengend, aber ich denk das macht ein Teil des Ambientes aus). Die Burger schauten super lecker und schön zubereitet aus... bis man ins Fleisch beisst. Ich hatte das Gefühl, dass...Mehr
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (12, '
+Sehr leckere Burger und grosse Auswahl
+Wir haben alle einen Burger gegessen und waren alle begeistert! Auch die Pommes waren sehr lecker. Das Restaurant ist eher einfach gehalten und klein. Trotzdem haben wir uns aber sehr wohl gefühlt und der Service war sehr freundlich. Grosse Auswahl an Burgern und Bier. Wir...Mehr
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (13, '
+Wieder einzigartig
+Ich könnte ewig schreiben. Jeder Besuch im Wolf ist einfach einzigartig und speziell. Heute wieder ein Top Bedienung und feine Burger. Ein sonniger Tag endet wunderbar im Wolfs Burger, was könnte es Besseres geben😉
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (14, '
+Fleisch Hammer, Saucen naja
+Ich war schon zwei mal im Wolf und das Essen war absolut ein Traum. Wer Lust auf gutes Fleisch hat der muss unbedingt dorthin. Leider waren die Saucen nicht soooo geil...vielleicht kann man mal über eine Rezeptverbesserung nachdenken. Nichtsdestotrotz 5 Punkte!
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (15, '
+Abriss
+Waren heute abend ( 10.Aug. ) am Street Food in Alpnach an eurem Stand Burger essen.Sehr.enttäuschend.Sehr kleines Fleisch,generell ein minimum an Zutaten drauf,Tomate vergessen,sehr sparsam auch mit Sauce.Burger war trocken,wenig Geschmack und dies für über sFr.10.-.! Pommes ok,für die kleine Portion aber auch zu teuer.Preis/Leistung...Mehr
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (16, '
+Ich / wir haben nur geschärmt
+Ja wir alle 5 die wir da im Wolf gewesen waren waren wir so sehr begeistert vom Essen (Fleisch) und eine sehr liebevolle Bedinungen. Das Bier war sehr erfrischend und auch immer gleich da. Wir haben draußen gegessen
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (17, '
+Geburtstagsessen
+Wir haben am Geburtstag meines Mannes einen super schönen Abend in tollem Ambiente und mit freundlichem und witzigem Service verbracht. Das Essen war klasse und organisatorisch hat alles geklappt wie abgemacht inklusive kleinem Schmankerl als Dessert für das Geburtstagskind. Wirklich top! Kommen sehr gerne wieder....Mehr
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (18, '
+Sehr guter Burger und sehr gutes Bier
+An einem Freitagabend trafen wir uns zu Dritt im Wolf zu Burger und Bier. Es war das erste Mal für uns und wir waren entsprechend gespannt. Vorspeise: Nachos mit Käse.. wirklich der Hammer. Danach Burger bestellt mit dunklem Brot und passendes Bier dazu. Beim ersten...Mehr
+
+');
+
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (19, '
+Bester Burger in Luzern und überhaupt
+Einfach der Hammer. Richtig feiner Burger, feines Fleisch, super Brot und auch die Beilagen sind super. Immer sehr gut besetzt, daher lohnt es sich kurz anzurufen. Im schlimmsten Fall holen gehen und zu Hause oder draussen essen. Kann ich nur weiterempfehlen!
+
+');
+
+INSERT INTO "TA"."BEWERTUNGEN" VALUES (20, '
+Gutes Fleisch aber sonst so "na ja"
+Für den Preis war mein Besuch dort höchstens als mittelmässig zu bezeichnen. Salat war ziemlich verwelkt. Kaum habe ich mit diesem angefangen, ist schon der Hauptgang gekommen. Die Garstufe war wie gewünscht, aber der Koch musste das Fleisch auseinander schneiden, um es zu checken. Habe...Mehr
+
+');
+
+DROP  FULLTEXT INDEX "TA"."MINING";
+CREATE FULLTEXT INDEX "TA"."MINING" ON "TA"."BEWERTUNGEN" ("STRING") FAST PREPROCESS OFF TEXT MINING ON LANGUAGE DETECTION ('DE');
+
+
+SELECT SCORE, * FROM TM_GET_RELATED_DOCUMENTS(
+	DOCUMENT (
+		SELECT "STRING" FROM "TA"."BEWERTUNGEN"
+		WHERE "ID" = 1
+	)
+	SEARCH DISTINCT "STRING" FROM "TA"."BEWERTUNGEN"
+	RETURN PRINCIPAL COMPONENTS 2 CORRELATION TOP 20 "ID", "STRING"
+) AS T;
+
+
+
+
+SELECT T.TERM, T.NORMALIZED_TERM, T.TERM_TYPE, T.TERM_FREQUENCY, T.DOCUMENT_FREQUENCY, T.SCORE
+FROM TM_GET_RELATED_TERMS(
+	TERM 'burger'
+	SEARCH "STRING" FROM "TA"."BEWERTUNGEN"
+	RETURN TOP 16
+) AS T;
+

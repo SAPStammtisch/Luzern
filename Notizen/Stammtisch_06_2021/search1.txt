@@ -1,0 +1,73 @@
+DROP TABLE "TA".contains_demo_table;
+
+
+
+CREATE COLUMN TABLE "TA".contains_demo_table
+
+(
+
+id INTEGER PRIMARY KEY, 
+
+datacolumn1 SHORTTEXT(500), 
+
+datacolumn2 SHORTTEXT(500), 
+
+datacolumn3 SHORTTEXT(500) 
+
+FUZZY SEARCH INDEX ON
+
+)
+
+;
+
+
+
+INSERT INTO "TA".contains_demo_table VALUES (1, '','BusinessObjects','');
+
+INSERT INTO "TA".contains_demo_table VALUES (2, 'SAP Corp','','');
+
+INSERT INTO "TA".contains_demo_table VALUES (3, '','SAP in Walldorf Corp','');
+
+INSERT INTO "TA".contains_demo_table VALUES (4, '','','SAP HANA');
+
+INSERT INTO "TA".contains_demo_table VALUES (5, '','ASAP','');
+
+INSERT INTO "TA".contains_demo_table VALUES (6, 'sap hana','','');
+
+INSERT INTO "TA".contains_demo_table VALUES (7, '','','saphana');
+
+INSERT INTO "TA".contains_demo_table VALUES (8, 'sap','','hana');
+
+INSERT INTO "TA".contains_demo_table VALUES (9, 'sap loves hana','','');
+
+INSERT INTO "TA".contains_demo_table VALUES (10, 'sap loves sap hana','','');
+
+
+
+select * from "TA".contains_demo_table
+
+ where contains (datacolumn1,'SAP');
+
+-- where contains (*,'SAP');
+
+-- where contains (*,'sap');
+
+-- where contains (*,'sap hana');
+
+-- where contains (*,'"sap" "hana"');
+
+-- where contains (*,'"sap hana"');
+
+-- where contains (*,'"sap" -"sap hana"');
+
+-- where contains (*,'"sap" OR "hana"');
+
+
+/*
+select *, snippets (datacolumn1) as snippets_output 
+from "TA".contains_demo_table
+where contains (datacolumn1,'SAP');
+*/
+
+
+

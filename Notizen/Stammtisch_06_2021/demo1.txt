@@ -1,0 +1,42 @@
+DROP TABLE "TA"."A_MYTABLE";
+CREATE COLUMN TABLE "TA"."A_MYTABLE" (
+	ID INTEGER PRIMARY KEY,
+	STRING nvarchar(2000)
+);
+
+INSERT INTO "TA"."A_MYTABLE" VALUES (1, 'Bob likes working at SAP.');
+INSERT INTO "TA"."A_MYTABLE" VALUES (2, 'Hallo mein Name ist Alex');
+INSERT INTO "TA"."A_MYTABLE" VALUES (3, 'Es hat viele Bäume in den Dörfern.');
+
+
+------------------------------------------------------------------------------------------------------------
+
+-- Basic-Segmentation
+DROP FULLTEXT INDEX "TA"."MYINDEX";
+CREATE FULLTEXT INDEX myindex ON "TA"."A_MYTABLE" ("STRING")
+	CONFIGURATION 'LINGANALYSIS_BASIC'
+	TEXT ANALYSIS ON;
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+-- Basic-Segmentation mit Spracherkennung
+DROP FULLTEXT INDEX "TA"."MYINDEX";
+CREATE FULLTEXT INDEX myindex ON "TA"."A_MYTABLE" ("STRING")
+	CONFIGURATION 'LINGANALYSIS_BASIC'
+	LANGUAGE DETECTION ('EN', 'DE')
+	TEXT ANALYSIS ON;
+	
+
+------------------------------------------------------------------------------------------------------------
+
+-- Volle Linguanalysis (Defaultwert)
+DROP FULLTEXT INDEX "TA"."MYINDEX";
+CREATE FULLTEXT INDEX myindex ON "TA"."A_MYTABLE" ("STRING")
+	CONFIGURATION 'LINGANALYSIS_FULL'
+	LANGUAGE DETECTION ('EN', 'DE')
+	TEXT ANALYSIS ON;
+	
+
+------------------------------------------------------------------------------------------------------------
