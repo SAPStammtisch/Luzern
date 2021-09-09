@@ -26,6 +26,5 @@ Der nächste Stammtsich findet am [`September - Mittwoch, 22.09.2021`](https://w
 - `März - Mittwoch, 24.03.2021` [SAP Business Application Studio / VSCode On-premises / Notizen](https://github.com/SAPStammtisch/Luzern/blob/main/Notizen/Notizen_03_2021.md)
 - `April - Mittwoch, 28.04.2021`
 - `Juni - Mittwoch, 23.06.2021` [Text-Analysis mit SAP HANA / Notizen](https://github.com/SAPStammtisch/Luzern/tree/main/Notizen/Stammtisch_06_2021)
-- `September - Mittwoch, 22.09.2021` [Anmeldung](https://www.xing.com/events/sap-stammtisch-luzern-september-mittwoch-22-09-2021-3523441)
-- `Oktober - Mittwoch, 27.10.2021` 
+- `Oktober - Mittwoch, 27.10.2021` [Anmeldung](https://www.xing.com/events/sap-stammtisch-luzern-oktober-mittwoch-27-10-2021-3523441)
 - `November - Mittwoch, 24.11.2021` 
