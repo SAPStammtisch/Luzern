@@ -19,12 +19,7 @@ Unsere Regeln:
 [Anmeldung](https://www.xing.com/communities/groups/sap-stammtisch-luzern-ed9c-1110610/about)
 
 # Termine
-Der nächste Stammtsich findet am [`September - Mittwoch, 22.09.2021`](https://www.xing.com/events/sap-stammtisch-luzern-september-mittwoch-22-09-2021-3523441) statt.
+Der nächste Stammtsich findet am [`März - Mittwoch, 16.03.2022`](https://www.xing.com/events/sap-stammtisch-luzern-marz-mittwoch-16-03-2022-3830297) statt.
 
 
-- `Februar - Mittwoch, 24.02.2021` [Fiori Elements am Beispiel SAP Analytical List Page](https://www.xing.com/events/sap-stammtisch-luzern-24-februar-2021-3288327)
-- `März - Mittwoch, 24.03.2021` [SAP Business Application Studio / VSCode On-premises / Notizen](https://github.com/SAPStammtisch/Luzern/blob/main/Notizen/Notizen_03_2021.md)
-- `April - Mittwoch, 28.04.2021`
-- `Juni - Mittwoch, 23.06.2021` [Text-Analysis mit SAP HANA / Notizen](https://github.com/SAPStammtisch/Luzern/tree/main/Notizen/Stammtisch_06_2021)
-- `Oktober - Mittwoch, 27.10.2021` Abgesagt 
-- `November - Mittwoch, 24.11.2021` 
+- `März - Mittwoch, 16.03.2022` [Überlick über die Erweitungsmöglichkeiten von S/4-Hana](https://www.xing.com/events/sap-stammtisch-luzern-marz-mittwoch-16-03-2022-3830297)
