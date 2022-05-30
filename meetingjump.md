@@ -1,3 +1,3 @@
 # Meeting
 
-Sobald die Konferenze eröffnet wird, finden Sie hier den Link
+Sobald die Konferenz eröffnet wird, finden Sie hier den Link
