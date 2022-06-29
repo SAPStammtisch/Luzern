@@ -18,6 +18,12 @@ Unsere Regeln:
 # Registrierung
 [Anmeldung](https://www.xing.com/communities/groups/sap-stammtisch-luzern-ed9c-1110610/about)
 
+
+# Zum Meeting
+![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWP54q?ver=5a30&q=100&h=75&w=75&b=%23FFFFFFFF&aim=true)
+[Hier geht es zum Meeting](/Luzern/meetingjump)
+
+
 # Termine
 Der nächste Stammtsich findet am [`Juni- Mittwoch, 29.06.2022`](https://www.xing.com/events/sap-stammtisch-luzern-juni-mittwoch-29-06-2022-3979669) statt.
 
