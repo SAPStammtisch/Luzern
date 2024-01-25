@@ -5,7 +5,7 @@ Treffen der SAP Community aus Luzern und Umgebung.
 Beim SAP Stammtisch Luzern treffen sich Architekten, Berater, Entwickler, Studenten u.v.m. zum Erfahrungs- sowie Know-How Austausch.
 
 ### Wann
-Di, 20. Feb. 2024, 18:00 bis 20:00 (Ihre Ortszeit)
+Di, 20. Feb. 2024, 18:00 bis 20:00 
 
 ### Wo
 Inseliquai 12, Luzern, LU, CH, 6005
