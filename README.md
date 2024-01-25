@@ -2,14 +2,21 @@
 
 Beim SAP Stammtisch Luzern treffen sich Architekten, Berater, Entwickler, Studenten u.v.m. zum Erfahrungs- sowie Know-How Austausch.
 
-Unsere Regeln:
+### Wann
+Di, 20. Feb. 2024, 18:00 bis 20:00 (Ihre Ortszeit)
 
-- Wir sind unabhängig
-- Wir sind per «Du»
-- Jeder ist willkommen
-- Jeder zahlt sein Essen/Trinken selbst
+### Wo
+Inseliquai 12, Luzern, LU, CH, 6005
+Radisson Blu Hotel, Lakefrontcenter
+
+### Programm
+Begrüssung und allgemeine Infos zum SAP Stammtisch Luzern
+Vortrag - Reach the next RAP Level: Unmanaged Queries - Mehr als nur Custom Entities
+Vortrag - Überblick Cloud Entwicklung mit der SAP BTP
+Gemeinsamer Apero an der Bar
+
 
 
 # Registrierung
-[Anmeldung](https://www.xing.com/communities/groups/sap-stammtisch-luzern-ed9c-1110610/about)
+[Anmeldung](https://academy.pureconsulting.ch/events/sapstammtisch/)
 
