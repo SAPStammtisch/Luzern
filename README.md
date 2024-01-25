@@ -10,10 +10,10 @@ Inseliquai 12, Luzern, LU, CH, 6005
 Radisson Blu Hotel, Lakefrontcenter
 
 ### Programm
-Begrüssung und allgemeine Infos zum SAP Stammtisch Luzern
-Vortrag - Reach the next RAP Level: Unmanaged Queries - Mehr als nur Custom Entities
-Vortrag - Überblick Cloud Entwicklung mit der SAP BTP
-Gemeinsamer Apero an der Bar
+- Begrüssung und allgemeine Infos zum SAP Stammtisch Luzern
+- Vortrag - Reach the next RAP Level: Unmanaged Queries - Mehr als nur Custom Entities
+- Vortrag - Überblick Cloud Entwicklung mit der SAP BTP
+- Gemeinsamer Apero an der Bar
 
 
 
