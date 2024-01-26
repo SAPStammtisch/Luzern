@@ -22,5 +22,7 @@ Radisson Blu Hotel, Lakefrontcenter
 
 
 # Termine
-Der nächste Stammtsich findet am [`Di, 20. Feb. 2024`] statt.
+- Der nächste Stammtsich findet am [`Di, 20. Feb. 2024`] statt.
 
+- Di, 19. Mar. 2024 (Thema und Ort wird noch bekanntgegeben)
+- Di, 23. Apr. 2024 (Thema und Ort wird noch bekanntgegeben)
