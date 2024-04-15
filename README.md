@@ -1,4 +1,4 @@
-## Willkommen zu den öffentlichen Ressourcen vom SAP Stammtisch Luzern
+## Willkommen zum SAP Stammtisch Luzern
 
 Wir freuen uns sehr, Dich zum Event SAP Stammtisch Luzern einzuladen. 
 Das Event findet am 15.05.2024 um 18:00 Uhr im Radisson Luzern statt.
